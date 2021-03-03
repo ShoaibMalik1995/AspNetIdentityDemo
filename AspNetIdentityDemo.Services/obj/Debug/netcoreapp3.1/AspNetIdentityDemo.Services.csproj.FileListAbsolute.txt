@@ -1,0 +1,12 @@
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.deps.json
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.dll
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.pdb
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.dll
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\bin\Debug\netcoreapp3.1\AspNetIdentityDemo.Shared.pdb
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.csprojAssemblyReference.cache
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.AssemblyInfoInputs.cache
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.AssemblyInfo.cs
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.csproj.CopyComplete
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.dll
+C:\Users\skaramat\Desktop\AspNetIdentityDemo\AspNetIdentityDemo.Services\obj\Debug\netcoreapp3.1\AspNetIdentityDemo.Services.pdb
